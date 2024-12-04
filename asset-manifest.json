@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zen-Fitness/static/css/main.9ee8677a.css",
+    "main.js": "/Zen-Fitness/static/js/main.20e16aac.js",
+    "static/js/453.fe53d25e.chunk.js": "/Zen-Fitness/static/js/453.fe53d25e.chunk.js",
+    "index.html": "/Zen-Fitness/index.html",
+    "main.9ee8677a.css.map": "/Zen-Fitness/static/css/main.9ee8677a.css.map",
+    "main.20e16aac.js.map": "/Zen-Fitness/static/js/main.20e16aac.js.map",
+    "453.fe53d25e.chunk.js.map": "/Zen-Fitness/static/js/453.fe53d25e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ee8677a.css",
+    "static/js/main.20e16aac.js"
+  ]
+}
